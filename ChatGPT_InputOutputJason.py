@@ -1,6 +1,4 @@
-#Connect Jason script to GPT API
 #ChatGPT Thread: https://chat.openai.com/c/8bb4cfa9-647f-47f6-8f45-0a858a61faa0
-#Not running
 #Python Version 3.9.0
 
 import openai
