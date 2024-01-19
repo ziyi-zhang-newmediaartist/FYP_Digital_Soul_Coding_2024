@@ -1,1 +1,29 @@
 #Connect Jason script to GPT API
+
+import openai
+import json
+
+# Set your OpenAI API key
+openai.api_key = "YOUR_API_KEY"
+
+# Define the JSON input with the prompt in the "text" field
+input_json = {
+    "text": "Hello, ChatGPT! How can you help me today?"
+}
+
+# Convert the JSON object to a string
+input_string = json.dumps(input_json)
+
+# Make a request to the OpenAI API
+response = openai.Completion.create(
+    model="gpt-3.5-turbo",
+    prompt=input_string,
+    temperature=0.7,
+    max_tokens=150
+)
+
+# Extract the model's reply from the API response
+model_reply = response['choices'][0]['text']
+
+# Print the model's reply
+print(model_reply)
