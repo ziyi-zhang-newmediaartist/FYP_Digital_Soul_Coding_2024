@@ -1,0 +1,16 @@
+import json
+
+def clean_and_print_json(json_file_path):
+    # Read from the JSON file
+    with open(json_file_path, 'r') as file:
+        json_string = file.read()
+
+    # Remove quotation marks, colons, and square brackets
+    cleaned_json_string = json_string.replace('"', '').replace(':', '').replace('[', '').replace(']', '').replace('{', '').replace('}', '')
+
+    # Print the cleaned JSON-formatted string
+    print(cleaned_json_string)
+
+# Replace 'example.json' with the actual path to your JSON file
+json_file_path = '/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/JsonToStrings/data.json'
+clean_and_print_json(json_file_path)
