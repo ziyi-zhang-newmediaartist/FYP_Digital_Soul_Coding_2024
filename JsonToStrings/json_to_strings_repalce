@@ -1,0 +1,28 @@
+#Replace certain parts in Json File
+
+
+import json
+
+def write_string_to_json(new_string, json_file_path, target_key):
+    # Read from the existing JSON file
+    with open(json_file_path, 'r') as file:
+        existing_data = json.load(file)
+
+    # Insert the new string into the specified key
+    existing_data['data'][target_key] = new_string
+
+    # Write the updated content back to the JSON file
+    with open(json_file_path, 'w') as file:
+        json.dump(existing_data, file, indent=2)
+
+# Replace 'example.json' with the actual path to your JSON file
+json_file_path = '/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/JsonToStrings/data.json'
+
+# Specify the key where you want to insert the new string
+target_key = 'city'
+
+# The new string you want to insert
+new_string = "New Example City"
+
+# Call the function to write the string into the specified part of the JSON file
+write_string_to_json(new_string, json_file_path, target_key)

@@ -1,8 +1,13 @@
 {
+  "data": {
     "name": "John Doe",
     "age": 30,
-    "city": "New York",
+    "city": "New Example City",
     "is_student": false,
-    "hobbies": ["reading", "traveling", "coding"]
+    "hobbies": [
+      "reading",
+      "traveling",
+      "coding"
+    ]
   }
-  
+}

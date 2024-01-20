@@ -1,3 +1,6 @@
+#Make Json file content print into 1 paragraph
+
+
 import json
 
 def clean_and_print_json(json_file_path):
@@ -14,6 +17,3 @@ def clean_and_print_json(json_file_path):
 # Replace 'example.json' with the actual path to your JSON file
 json_file_path = '/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/JsonToStrings/data.json'
 clean_and_print_json(json_file_path)
-
-
-
