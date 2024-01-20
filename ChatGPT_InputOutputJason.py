@@ -8,7 +8,7 @@ import json
 openai.api_key = "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"
 
 # Read the input from the JSON file
-with open('input.json', 'r') as file:
+with open('inputparagraphed.json', 'r') as file:
     input_data = json.load(file)
 
 # Convert the JSON object to a string
