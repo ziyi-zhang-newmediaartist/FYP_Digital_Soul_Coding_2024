@@ -7,10 +7,13 @@ def clean_and_print_json(json_file_path):
 
     # Remove quotation marks, colons, and square brackets
     cleaned_json_string = json_string.replace('"', '').replace(':', '').replace('[', '').replace(']', '').replace('{', '').replace('}', '')
-
+    cleaned_data = cleaned_json_string.replace('\n', '').replace('    ', '')
     # Print the cleaned JSON-formatted string
-    print(cleaned_json_string)
+    print(cleaned_data)
 
 # Replace 'example.json' with the actual path to your JSON file
 json_file_path = '/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/JsonToStrings/data.json'
 clean_and_print_json(json_file_path)
+
+
+
