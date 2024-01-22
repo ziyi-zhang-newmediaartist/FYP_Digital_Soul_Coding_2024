@@ -4,11 +4,14 @@
 import openai
 import json
 
+input_jsonfile = "/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/ChaGPTinJson/input.json"
+output_jsonfile = "/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/ChaGPTinJson/output.json"
+
 # Set your OpenAI API key
 openai.api_key = "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"
 
 # Read the input from the JSON file
-with open('inputparagraphed.json', 'r') as file:
+with open(input_jsonfile, 'r') as file:
     input_data = json.load(file)
 
 # Convert the JSON object to a string
@@ -36,7 +39,7 @@ output_data = {
 output_json_string = json.dumps(output_data, indent=2)
 
 # Write the JSON string to a file
-with open('output.json', 'w') as file:
+with open(output_jsonfile, 'w') as file:
     file.write(output_json_string)
 
 # Print the model's reply
