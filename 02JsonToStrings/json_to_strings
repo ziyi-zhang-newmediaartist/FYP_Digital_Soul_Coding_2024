@@ -15,5 +15,5 @@ def clean_and_print_json(json_file_path):
     print(cleaned_data)
 
 # Replace 'example.json' with the actual path to your JSON file
-json_file_path = '/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/JsonToStrings/data.json'
+json_file_path = '/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/02JsonToStrings/data.json'
 clean_and_print_json(json_file_path)
