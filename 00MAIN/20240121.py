@@ -4,7 +4,7 @@
 #    \  ===  /
 #     \____/
 
-
+#Achievement: Read data from json file and feed them into ChatGPT
 
 #1. Locate the JSON file within the user interface file.
 #2. Input the content of the identified JSON file into CHATGPT.
@@ -75,7 +75,7 @@ cleaned_data_for_ChatGPT = clean_and_print_json(json_file_path)
 openai.api_key = "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"
 
 # Define the message you want to send to ChatGPT
-user_message = str(cleaned_data_for_ChatGPT)
+user_message = "Please continue with the story. What will be happened to the item in the future, based on your own imagination:" + str(cleaned_data_for_ChatGPT)
 
 # Make a request to the OpenAI API using the v1/chat/completions endpoint
 response = openai.ChatCompletion.create(
