@@ -1,0 +1,13 @@
+{
+  "butterfly": {
+    "name": "Monarch Butterfly",
+    "scientific_name": "Danaus plexippus",
+    "family": "Nymphalidae",
+    "habitat": "North and South America",
+    "description": "The Monarch butterfly is known for its distinctive orange and black wings, with white spots along the edges. It is famous for its long-distance migration, covering thousands of miles from North America to Central Mexico during the winter.",
+    "lifespan": "2 to 6 weeks",
+    "diet": "Nectar from flowers",
+    "conservation_status": "Not currently endangered",
+    "interesting_fact": "Monarch butterflies go through four stages in their life cycle: egg, larva (caterpillar), pupa (chrysalis), and adult. They undergo a remarkable metamorphosis during this process."
+  }
+}
