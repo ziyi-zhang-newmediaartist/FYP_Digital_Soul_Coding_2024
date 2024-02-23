@@ -1,15 +1,27 @@
 {
-    "memory": {
-      "event": "Buying the Antique Chair",
-      "date": "January 15, 2023",
-      "location": "Old Town Antiques Store",
-      "chair_details": {
-        "style": "Victorian",
-        "material": "Mahogany",
-        "color": "Deep Brown",
-        "features": ["Carved details", "Upholstered seat", "Cabriole legs"]
-      },
-      "emotion": "Excitement and satisfaction",
-      "description": "I vividly remember the day when I bought this beautiful Victorian chair from the Old Town Antiques Store. It was on January 15, 2023. The chair, made of rich mahogany, had intricate carved details, an upholstered seat, and elegant cabriole legs. The deep brown color added a touch of sophistication to its overall appearance. The moment I saw it, I felt a sense of excitement and satisfaction. It wasn't just a piece of furniture; it was a timeless piece of art that now occupies a special place in my home."
-    }
+  "Information": {
+    "species": "Morpho menelaus",
+    "common_name": "Menelaus Blue Morpho",
+    "family": "Nymphalidae",
+    "genus": "Morpho",
+    "origin": "South America",
+    "habitat": "Tropical rainforests of South America, including countries like Brazil, Venezuela, and Colombia.",
+    "description": "The Morpho menelaus is a striking butterfly known for its brilliant iridescent blue wings with black borders. The underside of its wings is a dull brown color, helping it camouflage when its wings are closed. It has a wingspan of about 5 to 6 inches (12 to 15 cm), making it one of the largest butterflies in the world.",
+    "diet": "The adults primarily feed on rotting fruits, tree sap, and minerals found in damp soil. The caterpillars feed on a variety of host plants within the rainforest.",
+    "behavior": "These butterflies are known for their graceful flight patterns, often gliding through the forest canopy. They are also known to exhibit territorial behavior, especially around feeding sites and breeding areas.",
+    "conservation_status": "The Menelaus Blue Morpho is not currently considered endangered. However, like many butterfly species, it faces threats from habitat destruction and climate change.",
+    "interesting_fact": "The vibrant blue color of the Morpho menelaus wings is not actually due to pigment, but rather the microscopic scales covering its wings that reflect light in a way that creates the appearance of blue."
+  },
+  
+  "memory": {
+    "first_encounters": "at the Black Crow Taxidermy & Art shop",
+    "first_impression": "the butterflies are very big, very blue and very expensive",
+    "thoughts": "it can be the symbol in my artwork"
+  },
+
+  "value":{
+    "discovery": "each butterfly has a "
+
   }
+  
+}
