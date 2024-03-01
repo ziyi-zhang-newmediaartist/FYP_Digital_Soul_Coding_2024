@@ -1,4 +1,11 @@
 {
+  "Basics":{
+    "index" : "0001",
+    "subject name":"Morpho Menelaus",
+    "time of creation": "2020",
+    "location of creation": "Singpaore"
+  },
+
   "Information": {
     "species": "Morpho menelaus",
     "common_name": "Menelaus Blue Morpho",
@@ -14,14 +21,15 @@
   },
   
   "memory": {
-    "first_encounters": "at the Black Crow Taxidermy & Art shop",
-    "first_impression": "the butterflies are very big, very blue and very expensive",
+    "first_encounters": "at the Black Crow Taxidermy & Art shop, it is in the same building with my internship company",
+    "first_impression": "the butterflies are very big, very blue and very expensive. They are very beautiful and attractive", 
     "thoughts": "it can be the symbol in my artwork"
   },
 
   "value":{
-    "discovery": "each butterfly has a "
-
+    "discovery": "each butterfly has a unique pattern, how does this influence my art production?",
+    "philosophy": "The philosophical idea developed based on my discovery is: a thousand butterflies have a thousand forms,, whether incomplete or complete, eaxch has unique beauty. The essence of learning and studying art is to train our eyes to discover small things and connect the details together. If butterflies have spirituality, then each butterfly can represent an idea, a thought, a scenery, and attitude, a group of people, or a belief.",
+    "how does it relate to my ip": "'Morphini' is not only a name, but also a motto that tells us to listen and feel different existences. In aartistic practice, I try to appreciate and understand those seemingly insignificant possibilities and beautiful imagination."
   }
   
 }
