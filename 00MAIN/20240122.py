@@ -45,8 +45,8 @@ from datetime import datetime
 
 
 #-----------------------------FILE INVENTORY--------------------------------
-input_jsonfile = "/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/ChaGPTinJson/input.json"
-output_jsonfile = "/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/ChaGPTinJson/output.json"
+input_jsonfile = "C:/Users/fyp/Documents/GitHub/FYP_Digital_Soul_Coding_2024/ChaGPTinJson/input.json"
+output_jsonfile = "C:/Users/fyp/Documents/GitHub/FYP_Digital_Soul_Coding_2024/ChaGPTinJson/output.json"
 #
 
 #---------------------READ KEY WORDS FROM USER INTERFACE--------------------
@@ -68,7 +68,7 @@ def locate_json_file(directory, keywords):
     return None
 
 # Example Usage:
-directory_path = '/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/03JsonFiles'
+directory_path = 'C:/Users/fyp/Documents/GitHub/FYP_Digital_Soul_Coding_2024/03JsonFiles'
 search_keywords_01 = [user_input_01]
 search_keywords_02 = [user_input_02]
 
@@ -151,7 +151,7 @@ data = chatgpt_message
 current_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
 # Create a file name with the timestamp
-json_file_path = f"/Users/morphini/Desktop/FYP/Coding/FYP_Digital_Soul_Coding_2024/00MAIN/{current_time}.json"
+json_file_path = f"C:/Users/fyp/Documents/GitHub/FYP_Digital_Soul_Coding_2024/00MAIN/{current_time}.json"
 
 # Writing information to the JSON file
 with open(json_file_path, 'w') as file:
