@@ -1,1 +1,35 @@
-hello
+{
+    "topics": [
+      {
+        "topic": "Introduction to Programming",
+        "subtopics": [
+          {
+            "name": "What is Programming?",
+            "description": "An overview of what programming is and its importance."
+          },
+          {
+            "name": "Programming Languages",
+            "description": "Different programming languages and their uses."
+          }
+        ]
+      },
+      {
+        "topic": "Python Programming",
+        "subtopics": [
+          {
+            "name": "Syntax Basics",
+            "description": "Basic syntax rules in Python."
+          },
+          {
+            "name": "Data Types",
+            "description": "Overview of different data types in Python: int, float, str, list, tuple, dictionary."
+          },
+          {
+            "name": "Control Structures",
+            "description": "Overview of control structures in Python: if-else, loops."
+          },
+          {
+            "name": "Functions",
+            "description": "Creating and using functions in Python."
+   
+  
