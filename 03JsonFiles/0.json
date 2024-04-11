@@ -1,9 +1,9 @@
 {
     "Basics":{
-      "index" : "0001",
+      "index" : "0000",
       "subject name":"Morpho Menelaus",
       "time of creation": "2020",
-      "location of creation": "Singpaore"
+      "location of creation": "Singapore"
     },
   
     "Information": {
@@ -13,11 +13,11 @@
       "genus": "Morpho",
       "origin": "South America",
       "habitat": "Tropical rainforests of South America, including countries like Brazil, Venezuela, and Colombia.",
-      "description": "The Morpho menelaus is a striking butterfly known for its brilliant iridescent blue wings with black borders. The underside of its wings is a dull brown color, helping it camouflage when its wings are closed. It has a wingspan of about 5 to 6 inches (12 to 15 cm), making it one of the largest butterflies in the world.",
+      "description": "The Morpho menelaus is a striking butterfly known for its brilliant iridescent blue wings with black borders. The underside of its wings is a dull brown colour, helping it camouflage when its wings are closed. It has a wingspan of about 5 to 6 inches (12 to 15 cm), making it one of the largest butterflies in the world.",
       "diet": "The adults primarily feed on rotting fruits, tree sap, and minerals found in damp soil. The caterpillars feed on a variety of host plants within the rainforest.",
-      "behavior": "These butterflies are known for their graceful flight patterns, often gliding through the forest canopy. They are also known to exhibit territorial behavior, especially around feeding sites and breeding areas.",
+      "behaviour": "These butterflies are known for their graceful flight patterns, often gliding through the forest canopy. They are also known to exhibit territorial behaviour, especially around feeding sites and breeding areas.",
       "conservation_status": "The Menelaus Blue Morpho is not currently considered endangered. However, like many butterfly species, it faces threats from habitat destruction and climate change.",
-      "interesting_fact": "The vibrant blue color of the Morpho menelaus wings is not actually due to pigment, but rather the microscopic scales covering its wings that reflect light in a way that creates the appearance of blue."
+      "interesting_fact": "The vibrant blue colour of the Morpho menelaus wings is not actually due to pigment, but rather the microscopic scales covering its wings that reflect light in a way that creates the appearance of blue."
     },
     
     "memory": {
@@ -28,8 +28,10 @@
   
     "value":{
       "discovery": "each butterfly has a unique pattern, how does this influence my art production?",
-      "philosophy": "The philosophical idea developed based on my discovery is: a thousand butterflies have a thousand forms,, whether incomplete or complete, eaxch has unique beauty. The essence of learning and studying art is to train our eyes to discover small things and connect the details together. If butterflies have spirituality, then each butterfly can represent an idea, a thought, a scenery, and attitude, a group of people, or a belief.",
-      "how does it relate to my ip": "'Morphini' is not only a name, but also a motto that tells us to listen and feel different existences. In aartistic practice, I try to appreciate and understand those seemingly insignificant possibilities and beautiful imagination."
+      "philosophy": "The philosophical idea developed based on my discovery is: a thousand butterflies have a thousand forms,, whether incomplete or complete, each has unique beauty. The essence of learning and studying art is to train our eyes to discover small things and connect the details together. If butterflies have spirituality, then each butterfly can represent an idea, a thought, a scenery, and attitude, a group of people, or a belief.",
+      "value": "'Morphini' is not only a name, but also a motto that tells us to listen and feel different existences. In artistic practice, I try to appreciate and understand those seemingly insignificant possibilities and beautiful imagination."
     }
     
   }
+
+
