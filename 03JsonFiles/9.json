@@ -1,33 +1,80 @@
 {
-  "Basics":{
-    "index" : "0002",
-    "subject name":"NAFA",
-    "time of creation": "2017",
-    "location of creation": "Singpaore"
+  "Basics": {
+    "index": "0003",
+    "subject name": "Shanghai Buildings Heights",
+    "time of creation": "2024",
+    "location of creation": "Haining, China"
   },
-
-  "Information": {
-    "university": "Nanyang Academy of Fine Arts",
-    "location": "Singapore",
-    "program": {
-      "name": "Arts Management",
-      "level": "Diploma",
-      "degree": "Diploma in Arts Management",
-      "duration": "3 years",
-      "description": "The Arts Management program at NAFA equips students with the knowledge and skills to navigate the business side of the arts and cultural sector. It combines a strong foundation in arts and cultural studies with practical business management training, preparing graduates for roles in arts administration, event management, and cultural entrepreneurship.",
-      "careers": [
-        "Arts Administrator",
-        "Event Manager",
-        "Cultural Entrepreneur",
-        "Gallery Manager"
-      ]
+  "Buildings": [
+    {
+      "name": "Zhang Ziyi the artist",
+      "height_meters": 1.6,
+      "height_feet": 5.25
     },
-    "achievements":"best graduade, president award"
-  },
-
-  "memory": {
-    "first_encounters": "my friend was studying in the major and thus I am introduced to this major",
-    "first_impression": "the school design is traditional", 
-    "thoughts": "I have many life long friends from NAFA and they are very nice! I have a chance to see different art events because the location is so good!"
-  }
+    {
+      "name": "Shanghai Tower",
+      "height_meters": 632,
+      "height_feet": 2073
+    },
+    {
+      "name": "Shanghai World Financial Center",
+      "height_meters": 492,
+      "height_feet": 1614
+    },
+    {
+      "name": "Jin Mao Tower",
+      "height_meters": 421,
+      "height_feet": 1381
+    },
+    {
+      "name": "Shimao International Plaza",
+      "height_meters": 333,
+      "height_feet": 1092
+    },
+    {
+      "name": "Tomorrow Square",
+      "height_meters": 285,
+      "height_feet": 935
+    },
+    {
+      "name": "Oriental Pearl Tower",
+      "height_meters": 468,
+      "height_feet": 1535
+    },
+    {
+      "name": "Shanghai Grand Hyatt Hotel",
+      "height_meters": 555,
+      "height_feet": 1818
+    },
+    {
+      "name": "Shanghai Tower 2",
+      "height_meters": 263,
+      "height_feet": 863
+    },
+    {
+      "name": "Shanghai Wheelock Square",
+      "height_meters": 298,
+      "height_feet": 978
+    },
+    {
+      "name": "Shanghai IFC North Tower",
+      "height_meters": 260,
+      "height_feet": 853
+    },
+    {
+      "name": "Bund Center",
+      "height_meters": 198,
+      "height_feet": 650
+    },
+    {
+      "name": "Shanghai Tower 3",
+      "height_meters": 249,
+      "height_feet": 817
+    },
+    {
+      "name": "Shanghai Times Square",
+      "height_meters": 226,
+      "height_feet": 741
+    }
+  ]
 }
