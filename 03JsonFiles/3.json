@@ -1,33 +1,70 @@
 {
-  "Basics":{
-    "index" : "0002",
-    "subject name":"NAFA",
-    "time of creation": "2017",
-    "location of creation": "Singpaore"
+  "Basics": {
+    "index": "0003",
+    "subject name": "Cancer and Death",
+    "time of creation": "2018",
+    "location of creation": "Haining, China"
   },
-
-  "Information": {
-    "university": "Nanyang Academy of Fine Arts",
-    "location": "Singapore",
-    "program": {
-      "name": "Arts Management",
-      "level": "Diploma",
-      "degree": "Diploma in Arts Management",
-      "duration": "3 years",
-      "description": "The Arts Management program at NAFA equips students with the knowledge and skills to navigate the business side of the arts and cultural sector. It combines a strong foundation in arts and cultural studies with practical business management training, preparing graduates for roles in arts administration, event management, and cultural entrepreneurship.",
-      "careers": [
-        "Arts Administrator",
-        "Event Manager",
-        "Cultural Entrepreneur",
-        "Gallery Manager"
+  "Grandpa": {
+    "name": "In Loving Memory of Grandpa",
+    "relationship": "A guiding light, now a celestial beacon",
+    "memories": [
+      "Warm embraces and wise words",
+      "Shared laughter echoing through time",
+      "Legacy of love etched in every heart"
+    ]
+  },
+  "Cancer": {
+    "name": "The Shadow's Embrace",
+    "size": {
+      "unit": "cm",
+      "timeline": [
+        {"date": "2022-03-15", "time": "10:00 AM", "size": 0.5},
+        {"date": "2022-05-01", "time": "02:30 PM", "size": 1.8},
+        {"date": "2022-08-20", "time": "08:15 AM", "size": 4.2},
+        {"date": "2022-12-10", "time": "06:45 PM", "size": 7.3}
       ]
     },
-    "achievements":"best graduade, president award"
+    "manifestation": "A whispered dread, a somber specter",
+    "origin": "From the depths of mortality, where shadows breed",
+    "growth": "An inexorable march, consuming vitality",
+    "cycles": [
+      {
+        "date": "2022-03-15",
+        "time": "10:00 AM",
+        "phase": "Awakening",
+        "description": "A silent intruder, stirring in the silence"
+      },
+      {
+        "date": "2022-05-01",
+        "time": "02:30 PM",
+        "phase": "Expansion",
+        "description": "The creeping tendrils, extending their reach"
+      },
+      {
+        "date": "2022-08-20",
+        "time": "08:15 AM",
+        "phase": "Engulfment",
+        "description": "Eclipse of vitality, the shadow's embrace"
+      },
+      {
+        "date": "2022-12-10",
+        "time": "06:45 PM",
+        "phase": "Finality",
+        "description": "The quiet surrender, the last breath taken"
+      }
+    ]
   },
-
-  "memory": {
-    "first_encounters": "my friend was studying in the major and thus I am introduced to this major",
-    "first_impression": "the school design is traditional", 
-    "thoughts": "I have many life long friends from NAFA and they are very nice! I have a chance to see different art events because the location is so good!"
+  "Death": {
+    "name": "A Whirlwind of Emptiness",
+    "essence": "An echoing void, where memories linger",
+    "arrival": {
+      "date": "2022-12-10",
+      "time": "07:00 PM",
+      "method": "A gentle whisper, a tender release"
+    },
+    "impact": "A storm of grief, a flood of memories",
+    "reflection": "In the stillness, his presence persists",
+    "legacy": "In hearts and stories, he lives on"
   }
 }

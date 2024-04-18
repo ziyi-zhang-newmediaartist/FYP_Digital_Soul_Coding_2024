@@ -1,35 +1,70 @@
 {
-  "Basics":{
-    "index" : "0001",
-    "subject name":"Morpho Menelaus",
+  "Basics": {
+    "index": "0003",
+    "subject name": "Singapore River",
     "time of creation": "2020",
-    "location of creation": "Singpaore"
+    "location of creation": "Haining, China"
   },
-
-  "Information": {
-    "species": "Morpho menelaus",
-    "common_name": "Menelaus Blue Morpho",
-    "family": "Nymphalidae",
-    "genus": "Morpho",
-    "origin": "South America",
-    "habitat": "Tropical rainforests of South America, including countries like Brazil, Venezuela, and Colombia.",
-    "description": "The Morpho menelaus is a striking butterfly known for its brilliant iridescent blue wings with black borders. The underside of its wings is a dull brown color, helping it camouflage when its wings are closed. It has a wingspan of about 5 to 6 inches (12 to 15 cm), making it one of the largest butterflies in the world.",
-    "diet": "The adults primarily feed on rotting fruits, tree sap, and minerals found in damp soil. The caterpillars feed on a variety of host plants within the rainforest.",
-    "behavior": "These butterflies are known for their graceful flight patterns, often gliding through the forest canopy. They are also known to exhibit territorial behavior, especially around feeding sites and breeding areas.",
-    "conservation_status": "The Menelaus Blue Morpho is not currently considered endangered. However, like many butterfly species, it faces threats from habitat destruction and climate change.",
-    "interesting_fact": "The vibrant blue color of the Morpho menelaus wings is not actually due to pigment, but rather the microscopic scales covering its wings that reflect light in a way that creates the appearance of blue."
+  "Internship": {
+    "company": "STPI – Creative Workshop & Gallery",
+    "location": "Near the Singapore River",
+    "experience": "A journey of creativity and inspiration",
+    "highlights": [
+      "Learning from talented artists",
+      "Exploring new techniques in printmaking",
+      "Contributing to vibrant exhibitions"
+    ]
   },
-  
-  "memory": {
-    "first_encounters": "at the Black Crow Taxidermy & Art shop, it is in the same building with my internship company",
-    "first_impression": "the butterflies are very big, very blue and very expensive. They are very beautiful and attractive", 
-    "thoughts": "it can be the symbol in my artwork"
+  "Food": {
+    "favorites": [
+      {
+        "name": "Satay by the Bay",
+        "type": "Local Hawker Food",
+        "location": "18 Marina Gardens Dr, Singapore 018953",
+        "specialty": "Delicious satay skewers with peanut sauce"
+      },
+      {
+        "name": "Makansutra Gluttons Bay",
+        "type": "Local Hawker Food",
+        "location": "8 Raffles Ave, #01-15, Singapore 039802",
+        "specialty": "Variety of Singaporean street food in a lively atmosphere"
+      },
+      {
+        "name": "Lau Pa Sat",
+        "type": "Local Hawker Food",
+        "location": "18 Raffles Quay, Singapore 048582",
+        "specialty": "Satay, BBQ seafood, and local delicacies"
+      }
+    ]
   },
-
-  "value":{
-    "discovery": "each butterfly has a unique pattern, how does this influence my art production?",
-    "philosophy": "The philosophical idea developed based on my discovery is: a thousand butterflies have a thousand forms,, whether incomplete or complete, eaxch has unique beauty. The essence of learning and studying art is to train our eyes to discover small things and connect the details together. If butterflies have spirituality, then each butterfly can represent an idea, a thought, a scenery, and attitude, a group of people, or a belief.",
-    "how does it relate to my ip": "'Morphini' is not only a name, but also a motto that tells us to listen and feel different existences. In aartistic practice, I try to appreciate and understand those seemingly insignificant possibilities and beautiful imagination."
+  "Sunset": {
+    "monthly_times": {
+      "January": [
+        {"date": "2020-01-01", "time": "7:13 PM"},
+        {"date": "2020-01-02", "time": "7:14 PM"},
+        {"date": "2020-01-03", "time": "7:15 PM"},
+        {"date": "2020-01-04", "time": "7:15 PM"}
+      ],
+      "February": [
+        {"date": "2020-02-01", "time": "7:17 PM"},
+        {"date": "2020-02-02", "time": "7:18 PM"},
+        {"date": "2020-02-03", "time": "7:19 PM"},
+        {"date": "2020-02-04", "time": "7:20 PM"}
+      ],
+      "March": [
+        {"date": "2020-03-01", "time": "7:21 PM"},
+        {"date": "2020-03-02", "time": "7:22 PM"},
+        {"date": "2020-03-03", "time": "7:23 PM"},
+        {"date": "2020-03-04", "time": "7:23 PM"}
+      ],
+      "April": [
+        {"date": "2020-04-01", "time": "7:25 PM"},
+        {"date": "2020-04-02", "time": "7:26 PM"},
+        {"date": "2020-04-03", "time": "7:27 PM"},
+        {"date": "2020-04-04", "time": "7:27 PM"}
+      ]
+    },
+    "viewing spot": "The riverside promenade",
+    "description": "A breathtaking spectacle as the sun paints the sky in hues of orange and pink, casting reflections on the tranquil waters of the Singapore River."
   }
-  
 }

@@ -1,33 +1,80 @@
 {
-  "Basics":{
-    "index" : "0002",
-    "subject name":"NAFA",
-    "time of creation": "2017",
-    "location of creation": "Singpaore"
+  "Basics": {
+    "index": "0001",
+    "subject name": "Kiss in the Rain",
+    "time of creation": "2024",
+    "location of creation": "Paris, France"
   },
-
-  "Information": {
-    "university": "Nanyang Academy of Fine Arts",
-    "location": "Singapore",
-    "program": {
-      "name": "Arts Management",
-      "level": "Diploma",
-      "degree": "Diploma in Arts Management",
-      "duration": "3 years",
-      "description": "The Arts Management program at NAFA equips students with the knowledge and skills to navigate the business side of the arts and cultural sector. It combines a strong foundation in arts and cultural studies with practical business management training, preparing graduates for roles in arts administration, event management, and cultural entrepreneurship.",
-      "careers": [
-        "Arts Administrator",
-        "Event Manager",
-        "Cultural Entrepreneur",
-        "Gallery Manager"
-      ]
+  "Participants": [
+    {
+      "name": "A",
+      "age": "20+",
+      "gender": "Male",
+      "occupation": "Artist"
     },
-    "achievements":"best graduade, president award"
+    {
+      "name": "B",
+      "age": "20+",
+      "gender": "Female",
+      "occupation": "Artist"
+    }
+  ],
+  "Setting": {
+    "location": "A secluded park in Montmartre",
+    "time": "Late evening",
+    "weather": {
+      "type": "Rain",
+      "intensity": "Moderate",
+      "temperature": 15
+    },
+    "surroundings": {
+      "description": "Lush greenery, with a small pond nearby and the sound of raindrops falling on leaves",
+      "atmosphere": "Intimate and romantic"
+    }
   },
-
-  "memory": {
-    "first_encounters": "my friend was studying in the major and thus I am introduced to this major",
-    "first_impression": "the school design is traditional", 
-    "thoughts": "I have many life long friends from NAFA and they are very nice! I have a chance to see different art events because the location is so good!"
+  "Emotions": {
+    "James": ["Longing", "Desire", "Tenderness"],
+    "Sophia": ["Excitement", "Adoration", "Fearlessness"]
+  },
+  "Kiss": {
+    "description": "As the rain gently falls around them, James and Sophia share a tender kiss, their emotions intensified by the surreal beauty of the moment.",
+    "duration": "Approximately 1 minute",
+    "details": {
+      "sensations": ["The coolness of raindrops on their skin", "The softness of each other's lips", "The electricity of their connection"],
+      "surrounding sounds": ["Rustling leaves", "Distant thunder", "Their own heartbeat"]
+    },
+    "impact": "Leaves them feeling deeply connected and alive, as if the world has faded away, leaving only the two of them in their own private universe."
+  },
+  "Memories": {
+    "moments": [
+      {
+        "description": "Their first meeting at a gallery opening",
+        "emotion": "Nervous excitement"
+      },
+      {
+        "description": "Their trip to Paris, exploring the city together",
+        "emotion": "Wonder and discovery"
+      }
+    ],
+    "impact": "The kiss in the rain becomes a cherished memory, symbolizing their love and the beauty of unexpected moments."
+  },
+  "ASCII":{
+    "rain": [  
+      "                            000      00",
+      "                           0000000   0000",
+      "              0      00  00000000000000000",
+      "            0000 0  000000000000000000000000       0",
+      "         000000000000000000000000000000000000000 000",
+      "        0000000000000000000000000000000000000000000000",
+      "    000000000000000000000000000000000000000000000000",
+      "00000000000000000000000000000000000000000000000000000000",
+      "              / / / / / / / / / / / / / / / /",
+      "            / / / / / / / / / / / / / / /",
+      "            / / / / / / / / / / / / / / /",
+      "          / / / / / / / / / / / / / /",
+      "          / / / / / / / / / / / / /",
+      "        / / / / / / / / / / / /",
+      "       / / / / / / / / / /"
+    ]
   }
 }

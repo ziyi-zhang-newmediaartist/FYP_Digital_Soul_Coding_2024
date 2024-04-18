@@ -1,33 +1,69 @@
 {
-  "Basics":{
-    "index" : "0002",
-    "subject name":"NAFA",
-    "time of creation": "2017",
-    "location of creation": "Singpaore"
+  "Basics": {
+    "index": "0001",
+    "subject name": "Singapore River",
+    "time of creation": "2020",
+    "location of creation": "Singapore"
   },
-
-  "Information": {
-    "university": "Nanyang Academy of Fine Arts",
-    "location": "Singapore",
-    "program": {
-      "name": "Arts Management",
-      "level": "Diploma",
-      "degree": "Diploma in Arts Management",
-      "duration": "3 years",
-      "description": "The Arts Management program at NAFA equips students with the knowledge and skills to navigate the business side of the arts and cultural sector. It combines a strong foundation in arts and cultural studies with practical business management training, preparing graduates for roles in arts administration, event management, and cultural entrepreneurship.",
-      "careers": [
-        "Arts Administrator",
-        "Event Manager",
-        "Cultural Entrepreneur",
-        "Gallery Manager"
+  "dreams": [
+    {
+      "date": "2024-04-19",
+      "title": "Lost in the Desert",
+      "description": "I found myself wandering aimlessly through a vast desert landscape, with the scorching sun beating down relentlessly. The sand stretched out in all directions, and I felt a deep sense of isolation and vulnerability.",
+      "emotions": ["anxiety", "loneliness"],
+      "location": "desert",
+      "characters": [],
+      "events": [
+        {
+          "name": "Searching for Water",
+          "description": "I stumbled across dunes of sand, desperately searching for any sign of water. My throat was parched, and the heat was unbearable. It felt like a never-ending quest."
+        },
+        {
+          "name": "Encounter with a Mirage",
+          "description": "In the distance, I saw what appeared to be an oasis shimmering in the heat haze. With renewed hope, I hurried towards it, only to realize it was a cruel mirage, disappearing as I approached."
+        }
       ]
     },
-    "achievements":"best graduade, president award"
-  },
-
-  "memory": {
-    "first_encounters": "my friend was studying in the major and thus I am introduced to this major",
-    "first_impression": "the school design is traditional", 
-    "thoughts": "I have many life long friends from NAFA and they are very nice! I have a chance to see different art events because the location is so good!"
-  }
+    {
+      "date": "2024-04-18",
+      "title": "Confronting a Fear",
+      "description": "I was faced with my greatest fear in a dark, ominous forest. Every step I took felt heavy with dread, but I knew I had to confront it.",
+      "emotions": ["fear", "determination"],
+      "location": "forest",
+      "characters": [],
+      "events": [
+        {
+          "name": "Facing the Fear",
+          "description": "As I delved deeper into the forest, my fear intensified. But with each step, I felt a growing sense of determination to overcome it. Eventually, I confronted the source of my fear and found it to be less daunting than I had imagined."
+        },
+        {
+          "name": "Emerging Victorious",
+          "description": "After facing my fear head-on, I emerged from the forest with a newfound sense of courage and resilience. It was a triumphant moment, knowing that I had conquered something that once held power over me."
+        }
+      ]
+    },
+    {
+      "date": "2024-04-17",
+      "title": "Reunion with a Lost Loved One",
+      "description": "I was reunited with a loved one who had passed away, and it felt incredibly real. We spent precious moments together, reminiscing and cherishing each other's company.",
+      "emotions": ["joy", "sadness"],
+      "location": "unknown",
+      "characters": [
+        {
+          "name": "Deceased Loved One",
+          "relationship": "family"
+        }
+      ],
+      "events": [
+        {
+          "name": "Sharing Memories",
+          "description": "We talked for hours, reliving old memories and sharing stories. It felt as if no time had passed since we were last together."
+        },
+        {
+          "name": "Saying Goodbye",
+          "description": "As the dream came to an end, I knew I had to say goodbye once again. It was bittersweet, but I felt grateful for the chance to see them again, even if it was only in a dream."
+        }
+      ]
+    }
+  ]
 }
