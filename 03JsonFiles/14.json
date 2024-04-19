@@ -1,33 +1,51 @@
 {
-  "Basics":{
-    "index" : "0002",
-    "subject name":"NAFA",
-    "time of creation": "2017",
-    "location of creation": "Singpaore"
+  "Basics": {
+    "index": "0000",
+    "subject name": "Lumina",
+    "time of creation": "2024",
+    "location of creation": "Singapore"
   },
-
-  "Information": {
-    "university": "Nanyang Academy of Fine Arts",
-    "location": "Singapore",
-    "program": {
-      "name": "Arts Management",
-      "level": "Diploma",
-      "degree": "Diploma in Arts Management",
-      "duration": "3 years",
-      "description": "The Arts Management program at NAFA equips students with the knowledge and skills to navigate the business side of the arts and cultural sector. It combines a strong foundation in arts and cultural studies with practical business management training, preparing graduates for roles in arts administration, event management, and cultural entrepreneurship.",
-      "careers": [
-        "Arts Administrator",
-        "Event Manager",
-        "Cultural Entrepreneur",
-        "Gallery Manager"
-      ]
-    },
-    "achievements":"best graduade, president award"
-  },
-
-  "memory": {
-    "first_encounters": "my friend was studying in the major and thus I am introduced to this major",
-    "first_impression": "the school design is traditional", 
-    "thoughts": "I have many life long friends from NAFA and they are very nice! I have a chance to see different art events because the location is so good!"
+  "Collection": {
+    "owner": "Your Name",
+    "location": "Your Location",
+    "description": "A meticulously curated collection of lamps, lovingly gathered from around the world, each possessing its own story and aesthetic allure.",
+    "lamps": [
+      {
+        "name": "Vintage Brass Desk Lamp",
+        "type": "Desk Lamp",
+        "material": "Brass",
+        "style": "Vintage",
+        "height_cm": 40,
+        "color": "Antique Brass",
+        "bulb_type": "E26",
+        "power_watts": 60,
+        "notes": "Purchased from an antique market in Paris. Features intricate filigree details and a swivel head for adjustable lighting. This lamp belonged to a Parisian artisan who used it to illuminate his workshop during the early 20th century, adding a touch of history and character to its charm.",
+        "image": "https://example.com/vintage_brass_desk_lamp.jpg"
+      },
+      {
+        "name": "Modern Glass Pendant Lamp",
+        "type": "Pendant Lamp",
+        "material": "Glass",
+        "style": "Modern",
+        "height_cm": 50,
+        "color": "Clear",
+        "bulb_type": "G9 LED",
+        "power_watts": 40,
+        "notes": "Sleek and minimalist design, perfect for illuminating dining areas or kitchen islands. Handcrafted by artisans in Murano, Italy, renowned for their exquisite glasswork. Each lamp is unique, with slight variations in shape and texture, adding an artisanal touch to modern interiors.",
+        "image": "https://example.com/modern_glass_pendant_lamp.jpg"
+      },
+      {
+        "name": "Art Deco Floor Lamp",
+        "type": "Floor Lamp",
+        "material": "Metal",
+        "style": "Art Deco",
+        "height_cm": 160,
+        "color": "Silver",
+        "bulb_type": "E27",
+        "power_watts": 100,
+        "notes": "Elegant and sophisticated design inspired by the Art Deco era. Crafted by master metalworkers in Paris, France, known for their meticulous attention to detail and timeless craftsmanship. This lamp was once displayed in the lobby of a luxury hotel in Paris, exuding glamour and opulence, and now serves as a statement piece in your collection.",
+        "image": "https://example.com/art_deco_floor_lamp.jpg"
+      }
+    ]
   }
 }
