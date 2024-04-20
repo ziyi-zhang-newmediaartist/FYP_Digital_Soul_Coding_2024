@@ -1,62 +1,46 @@
 {
   "Basics": {
-    "index": "0019",
-    "subject name": "Zhang Ziyi",
-    "time of creation": "2024",
-    "location of creation": "Haining, China"
+    "index": "0003",
+    "subject name": "Singapore River",
+    "time of creation": "2020",
+    "location of creation": "Haining, China",
+    "abstract":"During my internship, I stumbled upon a Taxidermy shop that caught my eye with its collection of Menelaus Blue Morpho butterflies. I was immediately struck by the mesmerising beauty of these creatures. Each Menelaus Blue Morpho displayed its own distinct patterns and hues, making it truly unique. Inspired by their enchanting appearance, I envisioned incorporating the Menelaus Blue Morpho into my artistic logo, captivated by the idea of symbolising individuality and beauty."
   },
-  "Profile": {
-    "name": "Zhang Ziyi",
-    "birthdate": "February 9, 1979",
-    "birthplace": "Beijing, China",
-    "nationality": "Chinese",
-    "occupation": "Actress, Producer, Model",
-    "notable_works": [
-      "Crouching Tiger, Hidden Dragon",
-      "Hero",
-      "Memoirs of a Geisha",
-      "House of Flying Daggers"
-    ],
-    "awards": [
-      {
-        "name": "Golden Horse Award",
-        "category": "Best Actress",
-        "year": 2000,
-        "movie": "Crouching Tiger, Hidden Dragon"
-      },
-      {
-        "name": "BAFTA Award",
-        "category": "Best Actress in a Leading Role",
-        "year": 2001,
-        "movie": "Crouching Tiger, Hidden Dragon"
-      },
-      {
-        "name": "Golden Globe Award",
-        "category": "Best Actress in a Motion Picture – Drama",
-        "year": 2006,
-        "movie": "Memoirs of a Geisha"
-      },
-      {
-        "name": "Hong Kong Film Award",
-        "category": "Best Actress",
-        "year": 2005,
-        "movie": "2046"
-      }
-    ]
-  },
-  "Biography": {
-    "summary": "Zhang Ziyi is a Chinese actress known for her roles in martial arts films and period dramas. She gained international fame with her breakthrough role in 'Crouching Tiger, Hidden Dragon' and has since become one of China's most recognizable actresses.",
-    "career_highlights": [
-      "Breakthrough role in 'Crouching Tiger, Hidden Dragon'",
-      "Critically acclaimed performances in 'Hero' and 'House of Flying Daggers'",
-      "Success in Hollywood with 'Memoirs of a Geisha'"
-    ],
-    "philanthropy": "Zhang Ziyi has been involved in various charitable activities, including supporting children's education and environmental conservation efforts."
-  },
-  "Personal_Life": {
-    "spouse": "Wang Feng",
-    "children": ["Wang Xingxing", "Wang Ziyu"],
-    "interests": ["Martial arts", "Dancing", "Traveling"],
-    "quote": "I'm just a normal person, living a normal life, and I value it very much."
-  }
+  "chords": [
+    {
+      "name": "C major",
+      "description": "The sun rises over a tranquil meadow, casting golden rays of joy and warmth. A sense of contentment fills the air, as birds sing melodies of pure bliss.",
+      "emotion": "Happiness"
+    },
+    {
+      "name": "D minor",
+      "description": "Drops of rain fall gently on a solitary window pane, tracing melancholy paths as they merge into a river of tears. A longing for solace whispers through the mist.",
+      "emotion": "Sadness"
+    },
+    {
+      "name": "E minor",
+      "description": "A lone traveler walks through a misty forest, where shadows dance among ancient trees. Echoes of forgotten dreams linger in the air, mingling with the scent of damp earth.",
+      "emotion": "Melancholy"
+    },
+    {
+      "name": "F major",
+      "description": "Fields of wildflowers sway in the breeze, painting the landscape with vibrant hues of happiness and hope. The air is filled with the sweet scent of possibility.",
+      "emotion": "Brightness"
+    },
+    {
+      "name": "G major",
+      "description": "The ocean stretches out to the horizon, its waves crashing against rugged cliffs with boundless energy and determination. A sense of adventure fills the salty air.",
+      "emotion": "Energetic"
+    },
+    {
+      "name": "A minor",
+      "description": "A solitary figure stands atop a windswept hill, gazing out at the expanse of the universe. Thoughts drift like wisps of clouds, reflecting on the journey of the soul.",
+      "emotion": "Reflectiveness"
+    },
+    {
+      "name": "B diminished",
+      "description": "Shadows twist and turn in a labyrinth of uncertainty, casting doubt upon the path ahead. Tension hangs in the air like a heavy cloak, suffocating hope with each breath.",
+      "emotion": "Tension"
+    }
+  ]
 }

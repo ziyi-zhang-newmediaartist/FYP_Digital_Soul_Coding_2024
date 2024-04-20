@@ -3,8 +3,8 @@
     "index": "0003",
     "subject name": "Singapore River",
     "time of creation": "2020",
-    "location of creation": "Haining, China",
-    "abstract":"I was..."
+    "location of creation": "Singapore",
+    "abstract":"During my internship, I stumbled upon a Taxidermy shop that caught my eye with its collection of Menelaus Blue Morpho butterflies. I was immediately struck by the mesmerising beauty of these creatures. Each Menelaus Blue Morpho displayed its own distinct patterns and hues, making it truly unique. Inspired by their enchanting appearance, I envisioned incorporating the Menelaus Blue Morpho into my artistic logo, captivated by the idea of symbolising individuality and beauty."
   },
   "Internship": {
     "company": "STPI – Creative Workshop & Gallery",
@@ -41,31 +41,31 @@
   "Sunset": {
     "monthly_times": {
       "January": [
-        {"date": "2020-01-01", "time": "7:13 PM"},
-        {"date": "2020-01-02", "time": "7:14 PM"},
-        {"date": "2020-01-03", "time": "7:15 PM"},
-        {"date": "2020-01-04", "time": "7:15 PM"}
+        {"date": "2020-01-01", "time": "7:10 PM"},
+        {"date": "2020-01-02", "time": "7:10 PM"},
+        {"date": "2020-01-03", "time": "7:11 PM"},
+        {"date": "2020-01-04", "time": "7:11 PM"}
       ],
       "February": [
-        {"date": "2020-02-01", "time": "7:17 PM"},
-        {"date": "2020-02-02", "time": "7:18 PM"},
-        {"date": "2020-02-03", "time": "7:19 PM"},
-        {"date": "2020-02-04", "time": "7:20 PM"}
+        {"date": "2020-02-01", "time": "7:21 PM"},
+        {"date": "2020-02-02", "time": "7:21 PM"},
+        {"date": "2020-02-03", "time": "7:21 PM"},
+        {"date": "2020-02-04", "time": "7:21 PM"}
       ],
       "March": [
-        {"date": "2020-03-01", "time": "7:21 PM"},
-        {"date": "2020-03-02", "time": "7:22 PM"},
-        {"date": "2020-03-03", "time": "7:23 PM"},
-        {"date": "2020-03-04", "time": "7:23 PM"}
+        {"date": "2020-03-01", "time": "7:20 PM"},
+        {"date": "2020-03-02", "time": "7:20 PM"},
+        {"date": "2020-03-03", "time": "7:20 PM"},
+        {"date": "2020-03-04", "time": "7:20 PM", "event":"birthday"}
       ],
       "April": [
-        {"date": "2020-04-01", "time": "7:25 PM"},
-        {"date": "2020-04-02", "time": "7:26 PM"},
-        {"date": "2020-04-03", "time": "7:27 PM"},
-        {"date": "2020-04-04", "time": "7:27 PM"}
+        {"date": "2020-04-01", "time": "7:13 PM"},
+        {"date": "2020-04-02", "time": "7:13 PM"},
+        {"date": "2020-04-03", "time": "7:12 PM"},
+        {"date": "2020-04-04", "time": "7:12 PM"}
       ]
     },
-    "viewing spot": "The riverside promenade",
-    "description": "A breathtaking spectacle as the sun paints the sky in hues of orange and pink, casting reflections on the tranquil waters of the Singapore River."
+    "viewing spot": "Alongside the singapore river",
+    "description": "A breathtaking spectacle as the sun paints the sky in hues of orange and pink, casting reflections on the waters of the Singapore River."
   }
 }
