@@ -1,10 +1,12 @@
-def break_string_into_chunks(text, chunk_size=10):
-    words = text.split()
-    chunks = [' '.join(words[i:i+chunk_size]) for i in range(0, len(words), chunk_size)]
-    return chunks
+# Load the JSON data from the file
+import json
 
-# Example usage:
-text = "This is a sample string that we want to break into chunks of ten words each."
-chunks = break_string_into_chunks(text)
-for chunk in chunks:
-    print(chunk)
+input_jsonfile = "C:/Users/fyp/Documents/GitHub/FYP_Digital_Soul_Coding_2024/03JsonFiles/1.json"
+
+with open(input_jsonfile) as f:
+    data = json.load(f)
+
+# Retrieve the value of the "abstract" attribute
+abstract = data["Basics"]["abstract"]
+
+print(abstract)
