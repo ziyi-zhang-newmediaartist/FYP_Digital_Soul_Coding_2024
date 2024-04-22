@@ -7,8 +7,8 @@
     "abstract":"In my cozy abode, I cultivate a fascination for lamps and lights, adorning my living space with an ensemble of luminous treasures. Eight lamps grace the corners of my home, each emitting a soft, enchanting glow. These aren't just ordinary lamps; they're like miniature stars, casting their radiant beams into the room. Positioned strategically, they create an ambiance that evolves with every shift in perspective. Whether I'm curled up with a book, engrossed in a film, or engrossed in work, the play of light sets the mood, adding a touch of romance to the atmosphere. These moments become an indulgent celebration of self-love, where the gentle illumination wraps me in a comforting embrace, nurturing my spirit with warmth and tranquility."
   },
   "Collection": {
-    "owner": "Your Name",
-    "location": "Your Location",
+    "owner": "Zhang Ziyi",
+    "location": "Singapore",
     "description": "A meticulously curated collection of lamps, lovingly gathered from around the world, each possessing its own story and aesthetic allure.",
     "lamps": [
       {
@@ -20,8 +20,7 @@
         "color": "Antique Brass",
         "bulb_type": "E26",
         "power_watts": 60,
-        "notes": "Purchased from an antique market in Paris. Features intricate filigree details and a swivel head for adjustable lighting. This lamp belonged to a Parisian artisan who used it to illuminate his workshop during the early 20th century, adding a touch of history and character to its charm.",
-        "image": "https://example.com/vintage_brass_desk_lamp.jpg"
+        "notes": "Purchased from an antique market in Paris. Features intricate filigree details and a swivel head for adjustable lighting. This lamp belonged to a Parisian artisan who used it to illuminate his workshop during the early 20th century, adding a touch of history and character to its charm."
       },
       {
         "name": "Modern Glass Pendant Lamp",
@@ -32,8 +31,7 @@
         "color": "Clear",
         "bulb_type": "G9 LED",
         "power_watts": 40,
-        "notes": "Sleek and minimalist design, perfect for illuminating dining areas or kitchen islands. Handcrafted by artisans in Murano, Italy, renowned for their exquisite glasswork. Each lamp is unique, with slight variations in shape and texture, adding an artisanal touch to modern interiors.",
-        "image": "https://example.com/modern_glass_pendant_lamp.jpg"
+        "notes": "Sleek and minimalist design, perfect for illuminating dining areas or kitchen islands. Handcrafted by artisans in Murano, Italy, renowned for their exquisite glasswork. Each lamp is unique, with slight variations in shape and texture, adding an artisanal touch to modern interiors."
       },
       {
         "name": "Art Deco Floor Lamp",
@@ -44,8 +42,7 @@
         "color": "Silver",
         "bulb_type": "E27",
         "power_watts": 100,
-        "notes": "Elegant and sophisticated design inspired by the Art Deco era. Crafted by master metalworkers in Paris, France, known for their meticulous attention to detail and timeless craftsmanship. This lamp was once displayed in the lobby of a luxury hotel in Paris, exuding glamour and opulence, and now serves as a statement piece in your collection.",
-        "image": "https://example.com/art_deco_floor_lamp.jpg"
+        "notes": "Elegant and sophisticated design inspired by the Art Deco era. Crafted by master metalworkers in Paris, France, known for their meticulous attention to detail and timeless craftsmanship. This lamp was once displayed in the lobby of a luxury hotel in Paris, exuding glamour and opulence, and now serves as a statement piece in your collection."
       }
     ]
   }
