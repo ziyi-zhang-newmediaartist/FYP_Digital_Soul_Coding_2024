@@ -1,0 +1,63 @@
+{
+    "Basics": {
+      "index": "0003",
+      "subject name": "Rose",
+      "time of creation": "2024",
+      "location of creation": "Singapore",
+      "abstract":"In 2024, I had the opportunity to design the production of Red Rose and White Rose for the National University of Singapore's 90 Degree Drama Club. From then onwards, I gathered information on roses"
+    },
+    "everything about rose": {
+        "literature citations": [
+            {
+            "fiction": "The Little Prince",
+            "author": "Antoine de Saint-Exupéry",
+            "citation": "‘People where you live,’ the little prince said, ‘grow five thousand roses in one garden... yet they don't find what they're looking for... And yet what they're looking for could be found in a single rose, or a little water...’"
+            },
+            {
+            "fiction": "Beauty and the Beast",
+            "author": "The Enchantress (Fairy Tale)",
+            "citation": "For who could ever learn to love a beast?"
+            },
+            {
+            "fiction": "The Name of the Rose",
+            "author": "Umberto Eco",
+            "citation": "Books are not made to be believed, but to be subjected to inquiry."
+            },
+            {
+            "fiction": "The Thorn Birds",
+            "author": "Colleen McCullough",
+            "citation": "There is a legend about a bird which sings just once in its life, more sweetly than any other creature on the face of the earth."
+            },
+            {
+            "fiction": "The Rose Society",
+            "author": "Marie Lu",
+            "citation": "The darkness loves you, too. And it's kissed me on the lips. It's taken me to places I never dreamed I'd see."
+            },
+            {
+            "fiction": "The English Patient",
+            "author": "Michael Ondaatje",
+            "citation": "She had always wanted words, she loved them; grew up on them. Words gave her clarity, brought reason, shape."
+            },
+            {
+            "fiction": "The Rose and the Dagger",
+            "author": "Renée Ahdieh",
+            "citation": "I am surrounded by those who think I am nothing. Yet I am loved by the one who matters most of all."
+            },
+            {
+            "fiction": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "citation": "I suspect you may be a bit of a romantic, Celia. Though the term has taken on a derogatory meaning in recent years."
+            },
+            {
+            "fiction": "The Black Rose",
+            "author": "Thomas B. Costain",
+            "citation": "The best defense against any enemy is another enemy."
+            },
+            {
+            "fiction": "The Winter Rose",
+            "author": "Jennifer Donnelly",
+            "citation": "The rose is the flower of love. The world has acclaimed it for centuries. Pink roses are for love hopeful and expectant. White roses are for love dead or forsaken, but the red roses, ah the red roses are for love triumphant."
+            }
+        ]
+    }
+}
