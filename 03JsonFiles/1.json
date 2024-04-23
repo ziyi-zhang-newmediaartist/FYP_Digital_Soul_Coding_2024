@@ -1,10 +1,10 @@
 {
   "Basics": {
-    "index": "0003",
+    "index": "0001",
     "subject name": "Singapore River",
     "time of creation": "2020",
     "location of creation": "Singapore",
-    "abstract":"During my internship, I stumbled upon a Taxidermy shop that caught my eye with its collection of Menelaus Blue Morpho butterflies. I was immediately struck by the mesmerising beauty of these creatures. Each Menelaus Blue Morpho displayed its own distinct patterns and hues, making it truly unique. Inspired by their enchanting appearance, I envisioned incorporating the Menelaus Blue Morpho into my artistic logo, captivated by the idea of symbolising individuality and beauty."
+    "abstract":"During my internship at STPI – Creative Workshop & Gallery, I found myself immersed in a world where art and innovation intersected. Each day brought new challenges and opportunities to learn and grow. However, what truly captivated me was the serene beauty of the sunset that greeted me after a day's work"
   },
   "Internship": {
     "company": "STPI – Creative Workshop & Gallery",
@@ -19,22 +19,19 @@
   "Food": {
     "favorites": [
       {
-        "name": "Satay by the Bay",
-        "type": "Local Hawker Food",
-        "location": "18 Marina Gardens Dr, Singapore 018953",
-        "specialty": "Delicious satay skewers with peanut sauce"
+        "name": "Prive Robertson Quay",
+        "type": "cafe",
+        "location": "STPI, 41 Robertson Quay, #01-01, Singapore 238236"
       },
       {
-        "name": "Makansutra Gluttons Bay",
-        "type": "Local Hawker Food",
-        "location": "8 Raffles Ave, #01-15, Singapore 039802",
-        "specialty": "Variety of Singaporean street food in a lively atmosphere"
+        "name": "SPRMRKT",
+        "type": "cafe",
+        "location": "41 Robertson Quay 01-15a, Singapore 238236"
       },
       {
-        "name": "Lau Pa Sat",
-        "type": "Local Hawker Food",
-        "location": "18 Raffles Quay, Singapore 048582",
-        "specialty": "Satay, BBQ seafood, and local delicacies"
+        "name": "TCC The Connoisseur Concert",
+        "type": "cafe",
+        "location": "80 Mohamed Sultan Road The Pier At Robertson The Pier at Robertson #01-01/02, Singapore 239013"
       }
     ]
   },
