@@ -1,34 +1,101 @@
 {
-  "Basics":{
-    "index" : "0002",
-    "subject name":"NAFA",
-    "time of creation": "2017",
-    "location of creation": "Singpaore",
-    "abstract": "..."
+  "Basics": {
+    "index": "0010",
+    "subject name": "MBTI",
+    "time of creation": "2024",
+    "location of creation": "Singapore",
+    "abstract": "In the bustling metropolis of Shanghai, I immersed myself in a world dominated by towering skyscrapers that seemed to stretch endlessly into the sky. Amidst this concrete jungle, I found my place, a tiny figure amidst the grandeur of architecture. Working in Shanghai was an experience that constantly reminded me of my insignificance in comparison to the monumental structures that define the city's skyline."
   },
-
-  "Information": {
-    "university": "Nanyang Academy of Fine Arts",
-    "location": "Singapore",
-    "program": {
-      "name": "Arts Management",
-      "level": "Diploma",
-      "degree": "Diploma in Arts Management",
-      "duration": "3 years",
-      "description": "The Arts Management program at NAFA equips students with the knowledge and skills to navigate the business side of the arts and cultural sector. It combines a strong foundation in arts and cultural studies with practical business management training, preparing graduates for roles in arts administration, event management, and cultural entrepreneurship.",
-      "careers": [
-        "Arts Administrator",
-        "Event Manager",
-        "Cultural Entrepreneur",
-        "Gallery Manager"
-      ]
+    "INTJ":{
+    "name": "Zhang Ziyi",
+    "age": 25,
+    "traits": {
+      "introversion": true,
+      "intuition": true,
+      "thinking": true,
+      "judging": true
     },
-    "achievements":"best graduade, president award"
+    "strengths": [
+      "Strategic thinking",
+      "Problem-solving",
+      "Independence",
+      "Long-term planning",
+      "Analytical skills"
+    ],
+    "weaknesses": [
+      "Impatience with inefficiency",
+      "Tendency to overthink",
+      "Avoiding small talk"
+    ],
+    "interests": [
+      "Complex systems",
+      "Philosophy",
+      "Strategy games",
+      "Science fiction",
+      "Learning new skills"
+    ],
+    "career_preferences": [
+      "Roles that require strategic planning",
+      "Analytical professions (e.g., engineering, finance)",
+      "Entrepreneurship",
+      "Research and development"
+    ],
+    "communication_style": {
+      "Directness": "Prefers clear, concise communication",
+      "Logic-driven": "Values logical arguments and facts",
+      "Reserved": "Tends to listen more than speak in social settings"
+    },
+    "relationships": {
+      "Friendships": "Prefers a small circle of close, like-minded friends",
+      "Romantic": "Values intellectual compatibility and independence in a partner",
+      "Family": "May struggle with expressing emotions but values loyalty and support"
+    }
   },
 
-  "memory": {
-    "first_encounters": "my friend was studying in the major and thus I am introduced to this major",
-    "first_impression": "the school design is traditional", 
-    "thoughts": "I have many life long friends from NAFA and they are very nice! I have a chance to see different art events because the location is so good!"
-  }
-}
+  "ENFP":{
+    "name": "Zhang Ziyi",
+    "age": 25,
+    "gender": "Female"
+    },
+    "traits": {
+      "extroversion": true,
+      "intuition": true,
+      "feeling": true,
+      "perceiving": true
+    },
+    "strengths": [
+      "Enthusiastic and energetic",
+      "Creative problem-solving",
+      "Empathy and understanding",
+      "Adaptability to new situations",
+      "Strong communication skills"
+    ],
+    "weaknesses": [
+      "Difficulty with following through on long-term plans",
+      "Tendency to avoid conflict",
+      "Easily distracted by new ideas and possibilities"
+    ],
+    "interests": [
+      "Art and creativity",
+      "Traveling to explore new cultures",
+      "Music and concerts",
+      "Social activism",
+      "Personal development"
+    ],
+    "career_preferences": [
+      "Creative industries (e.g., advertising, marketing)",
+      "Social entrepreneurship",
+      "Roles that involve working with people",
+      "Public relations"
+    ],
+    "communication_style": {
+      "Expressiveness": "Prefers lively and engaging conversations",
+      "Emotion-driven": "Values emotional connection and authenticity",
+      "Adaptability": "Can adjust communication style to connect with different people"
+    },
+    "relationships": {
+      "Friendships": "Enjoys a wide circle of friends with diverse interests",
+      "Romantic": "Values deep emotional connections and shared experiences in a partner",
+      "Family": "Values close relationships and enjoys spending time with loved ones"
+    }
+  } 
