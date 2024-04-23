@@ -3,62 +3,9 @@
     "index": "0005",
     "subject name": "Kiss in the Rain",
     "time of creation": "2024",
-    "location of creation": "Paris, France"
+    "location of creation": "Singapore",
+    "abstract": "kiss in the rain"
   },
-  "Participants": [
-    {
-      "name": "A",
-      "age": "20+",
-      "gender": "Male",
-      "occupation": "Artist"
-    },
-    {
-      "name": "B",
-      "age": "20+",
-      "gender": "Female",
-      "occupation": "Artist"
-    }
-  ],
-  "Setting": {
-    "location": "A secluded park in Montmartre",
-    "time": "Late evening",
-    "weather": {
-      "type": "Rain",
-      "intensity": "Moderate",
-      "temperature": 15
-    },
-    "surroundings": {
-      "description": "Lush greenery, with a small pond nearby and the sound of raindrops falling on leaves",
-      "atmosphere": "Intimate and romantic"
-    }
-  },
-  "Emotions": {
-    "James": ["Longing", "Desire", "Tenderness"],
-    "Sophia": ["Excitement", "Adoration", "Fearlessness"]
-  },
-  "Kiss": {
-    "description": "As the rain gently falls around them, James and Sophia share a tender kiss, their emotions intensified by the surreal beauty of the moment.",
-    "duration": "Approximately 1 minute",
-    "details": {
-      "sensations": ["The coolness of raindrops on their skin", "The softness of each other's lips", "The electricity of their connection"],
-      "surrounding sounds": ["Rustling leaves", "Distant thunder", "Their own heartbeat"]
-    },
-    "impact": "Leaves them feeling deeply connected and alive, as if the world has faded away, leaving only the two of them in their own private universe."
-  },
-  "Memories": {
-    "moments": [
-      {
-        "description": "Their first meeting at a gallery opening",
-        "emotion": "Nervous excitement"
-      },
-      {
-        "description": "Their trip to Paris, exploring the city together",
-        "emotion": "Wonder and discovery"
-      }
-    ],
-    "impact": "The kiss in the rain becomes a cherished memory, symbolizing their love and the beauty of unexpected moments."
-  },
-  "ASCII":{
     "rain": [  
       "                            000      00",
       "                           0000000   0000",
@@ -76,5 +23,4 @@
       "        / / / / / / / / / / / /",
       "       / / / / / / / / / /"
     ]
-  }
 }
