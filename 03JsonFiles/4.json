@@ -1,38 +1,36 @@
 {
   "Basics": {
     "index": "0004",
-    "subject name": "Time and Abandoned Chair",
+    "subject name": "Vintage Sewing Machine",
     "time of creation": "2024",
     "location of creation": "China",
-    "description": "..."
+    "abstract": "The vintage sewing machine holds a special place in our family's history. It has been a fixture in our living room for as long as I can remember. Despite its age, it continues to function well. Acquired during my grandparents' marriage several decades ago, it has since been passed down through generations."
   },
   "Object": {
-    "name": "Time and Abandoned Chair",
+    "name": "Vintage Sewing Machine",
     "condition": {
       "physical": {
-        "status": "Weathered and worn",
-        "damage": {
-          "wood": ["Cracks", "Splinters"],
-          "upholstery": "Torn and frayed"
-        }
-      },
-      "emotional": ["Lonely", "Forgotten", "Resilient"]
-    },
-    "location": {
-      "room": {
-        "type": "Abandoned living room",
-        "features": ["Cracked windows", "Peeling wallpaper"]
-      },
-      "building": {
-        "type": "Old farmhouse",
-        "history": "Once a place of warmth and laughter, now echoes with silence"
+        "status": "function well",
+        "material": ["vintage metal", "intricate floral motifs"]
       }
     },
-    "emotions": ["Complexity", "Nostalgia", "Hope"],
+    "emotion": ["Lonely", "Sometimes being forgotten"]
+  },
+  "environment": {
+    "room": {
+      "type": "Abandoned living room",
+      "features": ["Cracked windows", "Peeling wallpaper"]
+    },
     "description": {
-      "appearance": "Nestled in the corner of the dilapidated living room, the chair bears the scars of time. Its wooden frame, once sturdy, now shows signs of wear with cracks and splinters. The upholstery, once plush and inviting, is now torn and frayed.",
-      "atmosphere": "Despite the decay surrounding it, the room holds a haunting beauty. Sunlight filters through the cracked windows, casting ethereal patterns on the dusty floor. The air is heavy with the scent of history, a mix of old wood and faded memories.",
-      "history": "The chair's history is intertwined with that of the farmhouse, a relic from a bygone era. It has witnessed generations come and go, the ebb and flow of life. Though now abandoned, it stands as a testament to resilience, holding onto hope amidst the ruins."
+      "appearance": "Nestled in the corner of the dilapidated living room, the sewing machine bears the scars of time. Its wooden frame, once sturdy, now shows signs of wear with cracks and splinters. The upholstery, once plush and inviting, is now torn and frayed.",
+      "atmosphere": "Despite the decay surrounding it, the room around the sewing machine holds a haunting beauty. Sunlight filters through the cracked windows, casting ethereal patterns on the dusty floor. The air is heavy with the scent of history, a mix of old wood and faded memories.",
+      "history": {
+        "acquisition": {
+          "event": "grandparents' marriage",
+          "year": "several decades ago"
+        },
+        "inheritance": "passed down through generations"
+      }
     }
   }
 }
