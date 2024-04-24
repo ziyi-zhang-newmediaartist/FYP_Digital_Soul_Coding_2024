@@ -1,167 +1,34 @@
 {
-  "Basics": {
-    "index": "0003",
-    "subject name": "Home",
-    "time of creation": "2024",
-    "location of creation": "Haining, China"
-  },
-  "Dust_and_Cleaning": {
-    "records": [
-      {
-        "date": "2024-04-19",
-        "cleaning_time": "10:00 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-20",
-        "cleaning_time": "09:30 AM",
-        "level_of_dust": "Low"
-      },
-      {
-        "date": "2024-04-21",
-        "cleaning_time": "11:00 AM",
-        "level_of_dust": "High"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-23",
-        "cleaning_time": "08:15 AM",
-        "level_of_dust": "Low"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      },
-      {
-        "date": "2024-04-22",
-        "cleaning_time": "10:45 AM",
-        "level_of_dust": "Moderate"
-      }
-    ]
-  }
+  "scenario": "Flying lanterns in Yangtze",
+  "event": "The annual Lantern Festival celebration",
+  "location": "Yangtze, China",
+  "description": "The Lantern Festival is a vibrant and joyous occasion in Yangtze, where locals and visitors release colorful flying lanterns into the night sky.",
+  "tradition": "The tradition of flying lanterns dates back centuries in Yangtze, symbolizing hopes, dreams, and good fortune for the upcoming year.",
+  "festivities": [
+    {
+      "name": "Preparation",
+      "details": "Days before the festival, families and communities gather to craft intricately designed lanterns using bamboo frames and colorful paper. Each lantern is a work of art, representing the creativity and craftsmanship of the people."
+    },
+    {
+      "name": "Gathering",
+      "details": "As dusk falls on the day of the festival, crowds assemble in the town square, carrying their lanterns and anticipation fills the air."
+    },
+    {
+      "name": "Release",
+      "details": "At the designated moment, the sky fills with the soft glow of lanterns as they are released into the night. The sight is breathtaking, with thousands of lanterns ascending into the darkness."
+    },
+    {
+      "name": "Wishes",
+      "details": "As the lanterns drift higher and higher, people make wishes and prayers, hoping for happiness, prosperity, and harmony in the coming year."
+    },
+    {
+      "name": "Community",
+      "details": "The Lantern Festival is not only a time for individual reflection but also a celebration of community spirit. Families and friends come together to share food, laughter, and memories, strengthening bonds and fostering unity."
+    },
+    {
+      "name": "Reflection",
+      "details": "As the last lantern fades from view, the people of Yangtze reflect on the beauty and symbolism of the event, carrying the spirit of hope and renewal with them into the future."
+    }
+  ],
+  "impact": "The Lantern Festival is not only a cherished tradition but also a significant cultural event that promotes tourism and fosters a sense of pride and identity among the residents of Yangtze."
 }
