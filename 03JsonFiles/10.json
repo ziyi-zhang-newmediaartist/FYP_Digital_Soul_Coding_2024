@@ -1,101 +1,54 @@
+
 {
   "Basics": {
-    "index": "0010",
-    "subject name": "MBTI",
+    "index": "0003",
+    "subject name": "Border Collie",
     "time of creation": "2024",
-    "location of creation": "Singapore",
+    "location of creation": "Haining, China",
     "abstract": "In the bustling metropolis of Shanghai, I immersed myself in a world dominated by towering skyscrapers that seemed to stretch endlessly into the sky. Amidst this concrete jungle, I found my place, a tiny figure amidst the grandeur of architecture. Working in Shanghai was an experience that constantly reminded me of my insignificance in comparison to the monumental structures that define the city's skyline."
   },
-    "INTJ":{
-    "name": "Zhang Ziyi",
-    "age": 25,
-    "traits": {
-      "introversion": true,
-      "intuition": true,
-      "thinking": true,
-      "judging": true
-    },
-    "strengths": [
-      "Strategic thinking",
-      "Problem-solving",
-      "Independence",
-      "Long-term planning",
-      "Analytical skills"
-    ],
-    "weaknesses": [
-      "Impatience with inefficiency",
-      "Tendency to overthink",
-      "Avoiding small talk"
-    ],
-    "interests": [
-      "Complex systems",
-      "Philosophy",
-      "Strategy games",
-      "Science fiction",
-      "Learning new skills"
-    ],
-    "career_preferences": [
-      "Roles that require strategic planning",
-      "Analytical professions (e.g., engineering, finance)",
-      "Entrepreneurship",
-      "Research and development"
-    ],
-    "communication_style": {
-      "Directness": "Prefers clear, concise communication",
-      "Logic-driven": "Values logical arguments and facts",
-      "Reserved": "Tends to listen more than speak in social settings"
-    },
-    "relationships": {
-      "Friendships": "Prefers a small circle of close, like-minded friends",
-      "Romantic": "Values intellectual compatibility and independence in a partner",
-      "Family": "May struggle with expressing emotions but values loyalty and support"
-    }
+  
+  "BorderCollie": {
+  "GeneralNameOptions": ["Buddy", "Max", "Charlie", "Bailey", "Lucy", "Daisy", "Molly", "Sadie"],
+  "MaleNames": ["Buddy", "Max", "Charlie", "Bailey"],
+  "FemaleNames": ["Lucy", "Daisy", "Molly", "Sadie"]
   },
 
-  "ENFP":{
-    "name": "Zhang Ziyi",
-    "age": 25,
-    "gender": "Female"
-    },
-    "traits": {
-      "extroversion": true,
-      "intuition": true,
-      "feeling": true,
-      "perceiving": true
-    },
-    "strengths": [
-      "Enthusiastic and energetic",
-      "Creative problem-solving",
-      "Empathy and understanding",
-      "Adaptability to new situations",
-      "Strong communication skills"
-    ],
-    "weaknesses": [
-      "Difficulty with following through on long-term plans",
-      "Tendency to avoid conflict",
-      "Easily distracted by new ideas and possibilities"
-    ],
-    "interests": [
-      "Art and creativity",
-      "Traveling to explore new cultures",
-      "Music and concerts",
-      "Social activism",
-      "Personal development"
-    ],
-    "career_preferences": [
-      "Creative industries (e.g., advertising, marketing)",
-      "Social entrepreneurship",
-      "Roles that involve working with people",
-      "Public relations"
-    ],
-    "communication_style": {
-      "Expressiveness": "Prefers lively and engaging conversations",
-      "Emotion-driven": "Values emotional connection and authenticity",
-      "Adaptability": "Can adjust communication style to connect with different people"
-    },
-    "relationships": {
-      "Friendships": "Enjoys a wide circle of friends with diverse interests",
-      "Romantic": "Values deep emotional connections and shared experiences in a partner",
-      "Family": "Values close relationships and enjoys spending time with loved ones"
+  "ascii":{
+    "BorderCollie":[
+        "    ⠀⠀⢀⣶⣦⡀",
+        "⠀⢀⣾⣿⣿⣿⣶⡀",
+        "⠀⣼⣿⣿⣿⣿⣿⣷⣄",
+        "⢰⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣄⣀⠀⡀",
+        "⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀",
+        "⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣄⣠⣾⣴⣶⣤⣄⡀⠀",
+        "⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⡀⠀",
+        "⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠻⠟⠀⠈⠁⠀⠀⠰⠶⣤⣄⣀⣀⣠⣤⣴⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⠀",
+        "⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⠻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡿⣿⣿⣿⣿⣿⣿⡄⠀",
+        "⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣆⠀",
+        "⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣞⣿⣿⣿⣿⣿⡆⠀",
+        "⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡜⣿⣿⣿⣿⣿⡀",
+        "⢀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠹⣿⣿⣿⣿⡇",
+        "⠈⠉⠉⣻⣿⣿⣿⣿⣿⣿⠃⡀⠀⠀⣠⣴⣾⣿⣷⡄⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠹⣿⣿⣿⣿",
+        "⠀⠀⠀⢸⡿⣻⣿⣿⣿⣿⡾⠁⠀⠀⠉⢿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠙⠻⠿⠇",
+        "⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⡃⠀⠀",
+        "⠀⠀⣧⣀⠘⠛⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣧⢸⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀",
+        "⠀⠀⠘⢿⣿⣶⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣄⠀⠀",
+        "⠀⠀⠀⠀⠙⠻⠿⢿⠿⠿⠻⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠯⠁⠀",
+        "⠀⠀⠀⠀⠀⢀⣴⣯⠀⠀⠀⠈⠳⡀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠆⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⢛⣿⡟⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠸⣿⡟⣻⣿⣿⡟⣿⡿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀",
+        "⠀⠀⠀⠀⠰⠿⣿⣟⣧⡀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠘⢿⣿⣿⠇⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⣿⣿⣿⡇⣆⠀⠀⠀⠀⠀⠀⠘⢿⣆⣀⣀⣀⣀⣀⣠⣤⣤⣄⣀⡀⠀⣀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⠉⠀⢻⣿⣿⡀⠀⠀⠀⠀⠀⠀⠈⠛⠿⠟⣛⣻⣿⣯⣷⣾⣿⣿⣿⣛⡛⠛⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠟⣷⠠⣇⠀⠀⠀⠀⠀⠀⠀⠛⠻⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠁⠉⠀⠀⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣆⠀⣶⡀⢀⣄⠀⠀⠀⠀⠉⠙⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣷⣼⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠙⢿⣿⡈⠻⢿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠻⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+        "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+        "Retrieved from: https://emojicombos.com/border-collie "
+     ]
     }
   } 
