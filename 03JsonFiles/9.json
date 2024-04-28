@@ -1,6 +1,6 @@
 {
   "Basics": {
-    "index": "0003",
+    "index": "0009",
     "subject name": "Shanghai Buildings Heights",
     "time of creation": "2024",
     "location of creation": "Haining, China",
@@ -9,7 +9,7 @@
   "Buildings": [
     {
       "name": "Zhang Ziyi the Artist",
-      "height_meters": 1.6,
+      "height_meters": 1.62,
       "height_feet": 5.25
     },
     {

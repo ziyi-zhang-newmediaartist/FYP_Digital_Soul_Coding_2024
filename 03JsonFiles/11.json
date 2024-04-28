@@ -1,5 +1,11 @@
 {
-    "scenario": "A Girl Studying with Pigeons",
+  "Basics": {
+    "index": "0011",
+    "subject name": "Lumina",
+    "time of creation": "2020",
+    "location of creation": "Singapore",
+    "abstract":"..."
+    },
     "characters": [
       {
         "name": "Sarah",
