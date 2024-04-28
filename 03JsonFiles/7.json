@@ -4,48 +4,46 @@
     "subject name": "Mother's Balcony",
     "time of creation": "2020",
     "location of creation": "Haining, China",
-    "abstract": "母亲的阳台是一处安宁之地，坐落在中国海宁的繁华城市中心。这个阳台被描述为大自然美景的织锦，提供了难得的宁静与平和。花园里种植着玫瑰、薰衣草、茉莉花和向日葵等各色鲜花，它们在微风中摇曳，释放出甜美的香气。阳台上设有舒适的休息区，配备了铁艺桌椅和柔软的垫子，为人们提供了放松与交流的场所。装饰元素如陶器盆、小仙灯和风铃增添了神奇的氛围。太阳落下时，阳台成为自然交响乐的舞台，营造出一种超越时空的和谐氛围。在这个忙碌城市中的一隅，母亲的阳台为人们带来了心灵的慰藉与宁静，成为了逃离日常喧嚣的庇护所。"
+    "abstract": "..."
   },
   "Balcony": {
-    "description": "母亲的阳台是宁静的圣地，是大自然美丽的织锦。坐落在喧嚣的城市景观中，它提供了一片和平与宁静的避风港。",
+    "description": "A sanctuary of serenity, my mother's balcony is a tapestry of nature's beauty. Perched amidst the bustling cityscape, it offers a haven of peace and tranquility.",
     "features": {
       "Flower Garden": {
         "flowers": [
           {
-            "name": "玫瑰",
-            "color": "红色",
-            "fragrance": "甜美",
-            "description": "丝绒般的花瓣，深红色的色调，散发着一种温暖和爱的芬芳。象征着激情和奉献，这些玫瑰全年开放，见证了母爱与子女之间的持久纽带。"
+            "name": "Roses",
+            "color": "Red",
+            "fragrance": "Sweet",
+            "description": "Velvet petals, crimson in hue, exude a fragrance that fills the air with warmth and love. Symbolizing passion and devotion, these roses bloom year-round, a testament to the enduring bond between mother and child."
           },
           {
-            "name": "薰衣草",
-            "color": "紫色",
-            "fragrance": "宁静",
-            "description": "淡紫色的花朵轻轻摇曳在微风中，释放出一种能够让灵魂放松的舒缓香气。薰衣草以其治愈特性，为疲惫的心灵提供慰藉与宁静。"
+            "name": "Lavender",
+            "color": "Purple",
+            "fragrance": "Calming",
+            "description": "Delicate spikes of purple blooms sway gently in the breeze, releasing a soothing aroma that lulls the soul into relaxation. Lavender, with its healing properties, offers solace and tranquility, a balm for the weary heart."
           },
           {
-            "name": "茉莉花",
-            "color": "白色",
-            "fragrance": "迷人",
-            "description": "一簇簇白色的花朵点缀在藤蔓上，其令人陶醉的香气编织着遥远土地和被遗忘的记忆的梦。茉莉花以其永恒的魅力，带来了浪漫和怀旧的细语，让人回想起母子之间珍贵的时刻。"
+            "name": "Jasmine",
+            "color": "White",
+            "fragrance": "Enchanting",
+            "description": "Clusters of starry white blossoms adorn the vine, their intoxicating scent weaving dreams of distant lands and forgotten memories. Jasmine, with its timeless allure, carries whispers of romance and nostalgia, reminiscent of cherished moments shared between mother and child."
           },
           {
-            "name": "向日葵",
-            "color": "黄色",
-            "fragrance": "充满活力",
-            "description": "明亮而充满活力，向日葵在微风中欢快摇曳，它们的金黄色花瓣反射出阳光的温暖。象征着力量和韧性，这些欢快的花朵为阳台带来一缕阳光，注入希望和乐观主义。"
+            "name": "Sunflowers",
+            "color": "Yellow",
+            "fragrance": "Energetic",
+            "description": "Bright and vibrant, sunflowers sway joyfully in the breeze, their golden petals reflecting the warmth of the sun. Symbolizing strength and resilience, these cheerful blooms bring a ray of sunshine to the balcony, infusing it with hope and optimism."
           }
         ]
       },
       "Seating Area": {
-        "description": "一个舒适的角落，配有铁艺桌椅，邀请人们静静地思考，或与所爱之人分享欢笑。装饰着柔软垫子和软毯，它成为放松和联结的圣所。"
+        "description": "A cozy corner furnished with a wrought-iron table and chairs, inviting moments of quiet contemplation or shared laughter with loved ones. Adorned with plush cushions and soft throws, it becomes a sanctuary for relaxation and connection."
       },
       "Decorative Elements": {
-        "description": "丽的陶器盆，随着时间的流逝而风化，承载着盛开的花朵，而闪烁的小仙灯在夜晚的微风中舞动，投下魔幻般的光芒。手工制作的风铃轻轻摇摆，其悦耳的叮当声增添了阳台迷人氛围。"
+        "description": "Ornate ceramic pots, weathered with time, cradle the blooming flowers, while twinkling fairy lights dance in the evening breeze, casting a magical glow. Handcrafted wind chimes sway gently, their melodic tinkling adding to the enchanting ambiance of the balcony."
       }
     },
-    "atmosphere": "当太阳在地平线上落下，将金色的光芒洒在阳台上，它变成了大自然交响乐的舞台。树叶轻轻摇曳的声音，鸟儿悦耳的鸣叫声，花朵的甜美香气共同营造了一种超越时间和空间的和谐。在这里，在城市的喧嚣中，人们找到了慰藉和宁静，远离了日常生活的混乱。"
+    "atmosphere": "As the sun sets on the horizon, casting golden rays upon the balcony, it becomes a stage for nature's symphony. The gentle rustle of leaves, the melodious chirping of birds, and the sweet fragrance of flowers create a harmony that transcends time and space. Here, amidst the hustle and bustle of the city, one finds solace and serenity, a refuge from the chaos of everyday life."
   }
 }
-
-
