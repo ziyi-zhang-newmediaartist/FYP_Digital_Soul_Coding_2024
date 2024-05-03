@@ -1,9 +1,9 @@
 {
   "Basics": {
-    "index": "0001",
-    "subject name": "Singapore River",
+    "index": "0006",
+    "subject name": "Dream Archive",
     "time of creation": "2020",
-    "location of creation": "Singapore"
+    "location of creation": "I always have colourful dreams, and I always transfer content of dreams into my artworks. They are the inspiration of my artworks."
   },
   "dreams": [
     {
@@ -39,29 +39,6 @@
         {
           "name": "Emerging Victorious",
           "description": "After facing my fear head-on, I emerged from the forest with a newfound sense of courage and resilience. It was a triumphant moment, knowing that I had conquered something that once held power over me."
-        }
-      ]
-    },
-    {
-      "date": "2024-04-17",
-      "title": "Reunion with a Lost Loved One",
-      "description": "I was reunited with a loved one who had passed away, and it felt incredibly real. We spent precious moments together, reminiscing and cherishing each other's company.",
-      "emotions": ["joy", "sadness"],
-      "location": "unknown",
-      "characters": [
-        {
-          "name": "Deceased Loved One",
-          "relationship": "family"
-        }
-      ],
-      "events": [
-        {
-          "name": "Sharing Memories",
-          "description": "We talked for hours, reliving old memories and sharing stories. It felt as if no time had passed since we were last together."
-        },
-        {
-          "name": "Saying Goodbye",
-          "description": "As the dream came to an end, I knew I had to say goodbye once again. It was bittersweet, but I felt grateful for the chance to see them again, even if it was only in a dream."
         }
       ]
     }
